@@ -6,5 +6,8 @@ cabal-dev
 *.chs.h
 .virthualenv
 
+# Ignore log directories
+log
+
 # VI Ignores
 *.swp
